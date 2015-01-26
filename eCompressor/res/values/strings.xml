@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">eCompressor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="logo">eCompressorLZW</string>
+    <string name="botonComprimir">Comprimir</string>
+    <string name="botonDescomprimir">Descomprimir</string>
+    <string name="archivo">Carga el .txt</string>
+    <string name="cargar">Cargar</string>
+    <string name="title_activity_resultado">Resultado</string>
+
+</resources>
